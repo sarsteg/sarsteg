@@ -7,4 +7,4 @@ I'm Sarah! I am a Data Analyst in-training.
 
 Let's connect on LinkedIn: https://www.linkedin.com/in/sarsteg/
 
-[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarsteg)](https://github.com/sarsteg/github-readme-stats&count_private=true&show_icons=true&theme=radical)
+[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarsteg)](https://github.com/sarsteg/github-readme-stats&count_private=true&show_icons=true&theme=radical)
