@@ -2,17 +2,25 @@
 
 ## I'm Sarah! 
 
-I am a Data Analyst in-training. 
+**Data Analyst | Extracting valuable insights from complex data.** <br>
 
-📖 I enjoy learning about new tools to add my toolbox for data analysis and visualization. <br><br>
-🌱 I'm creating projects in Python, Tableau, Javascript, and R Studio.<br>
+📈 Passionate about data analytics with a strong foundation in statistical analysis and survey research.<br>
+🎓 Currently pursuing a doctoral degree in Psychology.<br>
+📖 Actively developing my technical expertise in Python, R, JavaScript, Tableau, and other data tools. <br>
+💡 Always looking to take on new challenges to push abilities to the next level.<br>
+🌐 Portfolio showcasing my projects is available on my website.<br>
+🌟 Seeking opportunities in data analytics to deliver actionable insights.<br>
+🌱 Open to collaborating and engaging with others in the field.<br>
 
 --- 
 ## 🤝 Connect with me
 <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/sarsteg/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://public.tableau.com/app/profile/sarah.stegall.rodriguez"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Public"/></a>
+  <a href="https://public.tableau.com/app/profile/sarah.stegall.rodriguez"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Public"/></a>
+  <a href="https://sarsteg.wixsite.com/sarsteg"><img src="https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=Wix&logoColor=white" alt="My Website"/></a>
+  <a href="https://twitter.com/sarsteg"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+ 
 </div>
 <br>
 
