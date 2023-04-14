@@ -1,10 +1,14 @@
 # Hello there 👋
 
-I'm Sarah! I am a Data Analyst in-training. 
+## I'm Sarah! 
 
-📖 I enjoy learning about new tools to add my toolbox for data analysis and visualization. <br>
+I am a Data Analyst in-training. 
+
+📖 I enjoy learning about new tools to add my toolbox for data analysis and visualization. <br><br>
 🌱 I'm creating projects in Python, Tableau, Javascript, and R Studio.<br>
 
+--- 
+## 🤝 Connect with me
 <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/sarsteg/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,4 +16,17 @@ I'm Sarah! I am a Data Analyst in-training.
 </div>
 <br>
 
-[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sarsteg)](https://github.com/sarsteg/github-readme-stats&count_private=true&show_icons=true&theme=radical)
+---
+
+## ⭐ My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarsteg&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarsteg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=sarsteg&style=flat-square&color=blue" alt=""/>
+
