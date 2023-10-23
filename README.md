@@ -20,7 +20,8 @@
   <a href="https://public.tableau.com/app/profile/sarah.stegall.rodriguez"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Public"/></a>
   <a href="https://sarsteg.wixsite.com/sarsteg"><img src="https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=Wix&logoColor=white" alt="My Website"/></a>
   <a href="https://twitter.com/sarsteg"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
- 
+  <a href="https://www.upwork.com/freelancers/sarsteg"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/></a>
+   
 </div>
 <br>
 
